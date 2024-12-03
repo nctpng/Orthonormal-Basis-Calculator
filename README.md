@@ -19,4 +19,6 @@ If the vectors (columns) are linearly dependent, then the orthonormal basis will
 (because linear dependence means that one or more vectors can be written as linear combinations of the others, and are therefore redundant).
 If they are linearly independent then the orthonormal basis will have the same number of vectors.
 
+Written in C++ for a Linux environment
+
 */
